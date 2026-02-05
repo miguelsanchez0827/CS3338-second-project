@@ -1,0 +1,36 @@
+commit 198d037664085bdd21deaee85875999bc0cf4985
+Merge: 7d8dab6 02d72eb
+Author: Miguel <miguel.sanchez1802@gmail.com>
+Date:   Thu Feb 5 12:37:20 2026 -0800
+
+    resolve merge conflict
+
+commit 02d72eb62516887687e58eef0043ae44012edcca
+Author: Miguel <miguel.sanchez1802@gmail.com>
+Date:   Thu Feb 5 12:34:25 2026 -0800
+
+    Favorite video game
+
+commit 7d8dab6c6a64356a6c6799d929a67fd6d2841b3f
+Author: Miguel <miguel.sanchez1802@gmail.com>
+Date:   Thu Feb 5 12:31:01 2026 -0800
+
+    Favorite food
+
+commit 175fa9df1a0cb418e4c08281e5654f7bfc1396b9
+Author: Miguel <miguel.sanchez1802@gmail.com>
+Date:   Thu Feb 5 12:24:25 2026 -0800
+
+    Add README
+
+commit bff5f7ad3369664248ddf0450307a06c01988447
+Author: Miguel <miguel.sanchez1802@gmail.com>
+Date:   Thu Feb 5 11:45:06 2026 -0800
+
+    Fill in blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
